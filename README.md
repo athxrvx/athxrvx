@@ -151,8 +151,7 @@
 <br>
 <h3>Daily dev</h3>
 <p align="center">
-<a href="https://app.daily.dev/athxrvx"><img src="https://api.daily.dev/devcards/v2/xP9EmzY0ZnFKt090CGZF3.png?type=wide&r=ws9" width="652" alt="Chandra's Dev Card"/></a>
-</p>
+<a href="https://app.daily.dev/athxrvx"><img src="https://api.daily.dev/devcards/v2/xP9EmzY0ZnFKt090CGZF3.png?type=default&r=d2r" width="356" alt="Chandra's Dev Card"/></a></p>
    </td>
   </tr>
 </table>
