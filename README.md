@@ -149,11 +149,9 @@
 | athxrvx@proton.me        | [@athxrvx](https://github.com/athxrvx) | https://axrv.me |
 
 <br>
-<h3>listen to some music while you read/code</h3>
+<h3>Daily dev</h3>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-    <img src="https://img.shields.io/badge/🎧%20Lofi%20Beats%20Stream-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Beats" />
-  </a>
+<a href="https://app.daily.dev/athxrvx"><img src="https://api.daily.dev/devcards/v2/xP9EmzY0ZnFKt090CGZF3.png?type=wide&r=ws9" width="652" alt="Chandra's Dev Card"/></a>
 </p>
    </td>
   </tr>
