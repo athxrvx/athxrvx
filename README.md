@@ -13,8 +13,8 @@ I build tools, systems, and small machines that explain themselves by working.
 CS undergrad focused on **systems, tooling, and restrained interfaces**.  
 I prefer software that is quiet, predictable, and honest about its trade-offs.
 
-I spend most of my time close to the system boundary—where abstractions either
-hold or collapse—and I’m interested in why they do either.
+I spend most of my time close to the system boundary - where abstractions either
+hold or collapse - and I’m interested in why they do either.
 
 - Linux & BSD daily driver  
 - OS internals, declarative systems, and low-level abstractions  
